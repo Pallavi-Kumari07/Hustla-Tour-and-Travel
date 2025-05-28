@@ -60,20 +60,20 @@ Following are the functionalities provided by the application :
 
 # Screenshots
 
-![Screenshot 2025-01-13 201443](https://github.com/user-attachments/assets/c748cbb2-9f37-43b5-9f13-ca7719c07557)
+![Screenshot 2025-01-13 201443](https://github.com/user-attachments/assets/abfcd769-523b-4bac-9ace-d4699290aeda)
 ***
 
-![Screenshot 2025-01-13 201455](https://github.com/user-attachments/assets/e3c095ad-4d81-4cea-9418-c0be2ade91da)
+![Screenshot 2025-01-13 201455](https://github.com/user-attachments/assets/6fb6a245-a483-4c11-aaa9-fe2491781513)
 ***
 
-![Screenshot 2025-01-13 201553](https://github.com/user-attachments/assets/e8615d47-b95b-4f5d-ad35-2d3581042882)
+![Screenshot 2025-01-13 201553](https://github.com/user-attachments/assets/de65c62e-649a-469b-918e-f020e44290ba)
 ***
 
-![Screenshot 2025-01-13 201651](https://github.com/user-attachments/assets/b448354f-f52b-4b51-821c-dd91a9465c2a)
+![Screenshot 2025-01-13 201651](https://github.com/user-attachments/assets/6e42fa68-948b-4cc3-8236-622c8d06cfb4)
 ***
 
-![Screenshot 2025-01-13 201705](https://github.com/user-attachments/assets/7da2fd58-425a-4d4b-a515-5c0157dfcc72)
+![Screenshot 2025-01-13 201705](https://github.com/user-attachments/assets/55051eab-168c-4d3c-aabc-6c5b51907b0b)
 ***
 
-![Screenshot 2025-01-13 201724](https://github.com/user-attachments/assets/20ef5519-7444-46c3-8b2b-c5d42c110856)
+![Screenshot 2025-01-13 201724](https://github.com/user-attachments/assets/3347f9c8-e26a-4826-aeb5-ff5fc4022f25)
 ***
